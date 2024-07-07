@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Sanjana :)
-- 🌱 I’m currently in year 12 hoping to study Computer Science at university
+- 🌱 I’m studying Computer Science
 
 <!---
 Sanj224/Sanj224 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
